@@ -43,6 +43,7 @@ The working directory is the directory on your computer that git recognizes as a
 
 1. Open the eds221/eds221-git-challenge/ folder in Positron.
 2. Edit the README. Add a sentence stating your name and the name of your favorite video game from childhood. If you didn't play video games, pick another kind of game (board, card, sport, etc).
+# My name is Courtney Lorey and my favorite video game from childhood was Jak & Daxter. 
 3. Save the README.
 4. Create directory called R/. 
 5. Create a script in R/ called fave-game.R. Add these expressions to your script, replacing the text as appropriate.
